@@ -1,0 +1,23 @@
+body {
+         background-color: darkgray;
+          font-family: arial;
+          }
+      
+          h1 {
+             text-align: center;
+           color:cadetblue;
+           font-style: italic;
+           font-family: fantasy;
+          }
+          
+               h2 { 
+                   background-image: linear-gradient(to right, #c6919d, #96ded0);
+                  }
+           
+          h3 {
+              color: darkcyan;
+          }
+          
+          img { height: 300px;
+               width: 300px;
+               }
